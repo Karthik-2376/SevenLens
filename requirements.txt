@@ -1,0 +1,12 @@
+langchain
+langchain-mistralai
+langchain-core
+tavily-python
+requests
+beautifulsoup4
+pymupdf
+python-dotenv
+rich
+streamlit
+markdown
+fpdf2
